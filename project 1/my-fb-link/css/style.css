@@ -1,0 +1,13 @@
+.mfpl a {
+    color: #009688;
+    text-decoration: none;
+    box-shadow: none;
+    background: rgba(158, 158, 158, 0.48);
+    padding: 10px;
+}
+.mfpl a:hover{
+	background: rgba(158, 158, 158, 0.59);
+	border-radius:3px;
+	    box-shadow: 5px 7px;
+}
+
